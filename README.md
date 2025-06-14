@@ -63,9 +63,10 @@ Talk to Qwen2Audio (Powered by WebRTC ⚡️)
 ✅  Implemented dynamic transcription and response generation with session memory using additional outputs.
    
 ✅  Deployed on Hugging face spaces with GPU support using @spaces.GPU for smooth rea-time interaction.
+
+---
+
     
-
-
 🧠 Tech Stack
 
 Python, Pandas
@@ -81,4 +82,4 @@ twilio
 ---
 
 ## 📫 Reach Me
-- GitHub: [@DEVAHARIBAU](https://github.com/DEVAHARIBAU)
+- GitHub: [@Cheranharibabu1112](https://github.com/Cheranharibabu1112)
