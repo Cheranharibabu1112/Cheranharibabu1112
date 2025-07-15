@@ -48,23 +48,6 @@ An intelligent assistant to discover and explore research papers from ArXiv usin
 ---
 
 
-📄Talking_To_QWEN_WBERCT 
-
-📌 Explore the Project →
-
-Talk to Qwen2Audio (Powered by WebRTC ⚡️)
-
-🚀 Features:
-
-✅  Developed a real time voice based chatbot using Qwen2-Audio-7B-instruct, WebRTC.
-
-✅  Enabled low-latency audio streaming with gradio_webrtc and Twilio ICE servers for stable connections.
-  
-✅  Implemented dynamic transcription and response generation with session memory using additional outputs.
-   
-✅  Deployed on Hugging face spaces with GPU support using @spaces.GPU for smooth rea-time interaction.
-
----
 
     
 🧠 Tech Stack
